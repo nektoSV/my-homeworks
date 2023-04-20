@@ -1,6 +1,6 @@
 # About me.
 
-** My name is Vitalii**
+My name is Vitalii
 
 I am studying web development.
 
